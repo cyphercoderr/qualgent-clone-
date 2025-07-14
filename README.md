@@ -12,7 +12,6 @@
 - **Loading States** and error handling throughout
 
 ### 🎯 Advanced Features
-- **Analytics Dashboard** with charts and metrics
 - **Test Execution Simulation** with real-time status updates
 - **File Management** with size tracking and metadata
 - **Bulk Operations** for managing multiple items
@@ -30,20 +29,20 @@
 ## 🏃‍♂️ Quick Start
 
 1. **Install Dependencies**
-   \`\`\`bash
-   npm install
+   ```bash
+   npm install --legacy-peer-deps
    npm install -g json-server
-   \`\`\`
+   ```
 
 2. **Start JSON Server** (in one terminal)
-   \`\`\`bash
+   ```bash
    npm run json-server
-   \`\`\`
+   ```
 
 3. **Start Next.js App** (in another terminal)
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
 
 4. **Login with Demo Credentials**
    - Email: `philip@tripadvisor.com`
@@ -73,10 +72,6 @@
 - ✅ Run tests with real-time status
 - ✅ View test history and results
 
-### Analytics (Coming Soon)
-- 📊 Test execution trends
-- 📈 Success/failure rates
-- 🎯 Performance metrics
 
 ## 🎨 UI/UX Highlights
 - **Consistent Design Language** across all pages
