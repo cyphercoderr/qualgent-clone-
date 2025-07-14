@@ -1,0 +1,372 @@
+{
+  "testCategories": [
+    {
+      "id": "1",
+      "name": "All",
+      "count": 11,
+      "createdAt": "2025-01-01T00:00:00Z"
+    },
+    {
+      "id": "2",
+      "name": "new5",
+      "count": 3,
+      "createdAt": "2025-01-02T00:00:00Z"
+    },
+    {
+      "id": "3",
+      "name": "Another Test",
+      "count": 0,
+      "createdAt": "2025-01-03T00:00:00Z"
+    },
+    {
+      "id": "4",
+      "name": "hh",
+      "count": 1,
+      "createdAt": "2025-01-04T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "name": "Instatest",
+      "count": 1,
+      "createdAt": "2025-01-05T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "name": "Hey",
+      "count": 1,
+      "createdAt": "2025-01-06T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "name": "yyy",
+      "count": 0,
+      "createdAt": "2025-01-07T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "name": "nmmm",
+      "count": 0,
+      "createdAt": "2025-01-08T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "name": "SaketTest",
+      "count": 2,
+      "createdAt": "2025-01-09T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "name": "Test name",
+      "count": 1,
+      "createdAt": "2025-01-10T00:00:00Z"
+    },
+    {
+      "id": "11",
+      "name": "test 333",
+      "count": 2,
+      "createdAt": "2025-01-11T00:00:00Z"
+    },
+    {
+      "id": "6015",
+      "name": "New category",
+      "count": 0,
+      "createdAt": "2025-07-12T10:57:30.203Z"
+    }
+  ],
+  "testCases": [
+    {
+      "id": "1",
+      "name": "aaa",
+      "description": "Basic authentication test",
+      "categoryId": 2,
+      "status": "active",
+      "createdAt": "2025-01-01T10:00:00Z",
+      "updatedAt": "2025-01-01T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "name": "codewithkd",
+      "description": "Login flow validation",
+      "categoryId": 4,
+      "status": "active",
+      "createdAt": "2025-01-02T10:00:00Z",
+      "updatedAt": "2025-01-02T10:00:00Z"
+    },
+    {
+      "id": "3",
+      "name": "ew",
+      "description": "Error handling test",
+      "categoryId": 5,
+      "status": "active",
+      "createdAt": "2025-01-03T10:00:00Z",
+      "updatedAt": "2025-01-03T10:00:00Z"
+    },
+    {
+      "id": "4",
+      "name": "hhh",
+      "description": "Homepage functionality",
+      "categoryId": 4,
+      "status": "active",
+      "createdAt": "2025-01-04T10:00:00Z",
+      "updatedAt": "2025-01-04T10:00:00Z"
+    },
+    {
+      "id": "5",
+      "name": "Karan",
+      "description": "User profile test",
+      "categoryId": 6,
+      "status": "active",
+      "createdAt": "2025-01-05T10:00:00Z",
+      "updatedAt": "2025-01-05T10:00:00Z"
+    },
+    {
+      "id": "6",
+      "name": "test1",
+      "description": "Basic functionality test",
+      "categoryId": 9,
+      "status": "active",
+      "createdAt": "2025-01-06T10:00:00Z",
+      "updatedAt": "2025-01-06T10:00:00Z"
+    },
+    {
+      "id": "7",
+      "name": "ww",
+      "description": "Widget interaction test",
+      "categoryId": 10,
+      "status": "active",
+      "createdAt": "2025-01-07T10:00:00Z",
+      "updatedAt": "2025-01-07T10:00:00Z"
+    },
+    {
+      "id": "8",
+      "name": "ww",
+      "description": "Workflow validation",
+      "categoryId": 11,
+      "status": "active",
+      "createdAt": "2025-01-08T10:00:00Z",
+      "updatedAt": "2025-01-08T10:00:00Z"
+    },
+    {
+      "id": "9",
+      "name": "Test Entire Functionality",
+      "description": "Complete end-to-end test",
+      "categoryId": 9,
+      "status": "active",
+      "createdAt": "2025-01-09T10:00:00Z",
+      "updatedAt": "2025-01-09T10:00:00Z"
+    },
+    {
+      "id": "10",
+      "name": "Ronz",
+      "description": "Performance test",
+      "categoryId": 11,
+      "status": "active",
+      "createdAt": "2025-01-10T10:00:00Z",
+      "updatedAt": "2025-01-10T10:00:00Z"
+    },
+    {
+      "id": "11",
+      "name": "Test test",
+      "description": "Regression test",
+      "categoryId": 2,
+      "status": "active",
+      "createdAt": "2025-01-11T10:00:00Z",
+      "updatedAt": "2025-01-11T10:00:00Z"
+    }
+  ],
+  "appFiles": [
+    {
+      "id": "1",
+      "appName": "d",
+      "version": "s",
+      "os": "android",
+      "filename": "2c0d4807-592a-4b8e-be7f-f70686eeb49a.apk",
+      "size": "156.07 MB",
+      "sizeBytes": 163577856,
+      "uploaded": "Jul 11, 2025, 09:51 AM",
+      "uploadedAt": "2025-07-11T09:51:00Z"
+    },
+    {
+      "id": "2",
+      "appName": "Youtube",
+      "version": "1.1",
+      "os": "android",
+      "filename": "YouTube_20.26.40_APKPure.apk",
+      "size": "156.07 MB",
+      "sizeBytes": 163577856,
+      "uploaded": "Jul 10, 2025, 06:41 AM",
+      "uploadedAt": "2025-07-10T06:41:00Z"
+    }
+  ],
+  "testFiles": [
+    {
+      "id": "1",
+      "type": "image",
+      "name": "nf-aws-batch.png",
+      "size": "158.26 KB",
+      "sizeBytes": 162058,
+      "uploaded": "Jul 11, 2025, 10:31 PM",
+      "uploadedAt": "2025-07-11T22:31:00Z"
+    },
+    {
+      "id": "2",
+      "type": "image",
+      "name": "Karan.jpeg",
+      "size": "5.37 KB",
+      "sizeBytes": 5499,
+      "uploaded": "Jul 11, 2025, 12:04 PM",
+      "uploadedAt": "2025-07-11T12:04:00Z"
+    },
+    {
+      "id": "3",
+      "type": "file",
+      "name": "APKPure_v3.20.51_apkpure.com.apk",
+      "size": "19.91 MB",
+      "sizeBytes": 20886528,
+      "uploaded": "Jul 10, 2025, 07:25 AM",
+      "uploadedAt": "2025-07-10T07:25:00Z"
+    },
+    {
+      "id": "4",
+      "type": "file",
+      "name": "vault.1.20.0_windows_amd64.zip",
+      "size": "168.99 MB",
+      "sizeBytes": 177209344,
+      "uploaded": "Jul 10, 2025, 07:15 AM",
+      "uploadedAt": "2025-07-10T07:15:00Z"
+    },
+    {
+      "id": "5",
+      "type": "file",
+      "name": "NoSQL_Workbench.exe",
+      "size": "147.41 MB",
+      "sizeBytes": 154615808,
+      "uploaded": "Jul 10, 2025, 07:14 AM",
+      "uploadedAt": "2025-07-10T07:14:00Z"
+    },
+    {
+      "id": "6",
+      "type": "pdf",
+      "name": "new_resume.pdf",
+      "size": "113.23 KB",
+      "sizeBytes": 115947,
+      "uploaded": "Jul 10, 2025, 07:09 AM",
+      "uploadedAt": "2025-07-10T07:09:00Z"
+    },
+    {
+      "id": "7",
+      "type": "pdf",
+      "name": "resume.pdf",
+      "size": "113.32 KB",
+      "sizeBytes": 116039,
+      "uploaded": "Jul 10, 2025, 04:39 AM",
+      "uploadedAt": "2025-07-10T04:39:00Z"
+    },
+    {
+      "id": "8",
+      "type": "pdf",
+      "name": "Rahul_Panchal-Resume.pdf",
+      "size": "223.98 KB",
+      "sizeBytes": 229357,
+      "uploaded": "Jul 9, 2025, 08:43 PM",
+      "uploadedAt": "2025-07-09T20:43:00Z"
+    },
+    {
+      "id": "9",
+      "type": "pdf",
+      "name": "OmSinghan_CoverLetter.pdf",
+      "size": "41.49 KB",
+      "sizeBytes": 42486,
+      "uploaded": "Jul 9, 2025, 07:46 PM",
+      "uploadedAt": "2025-07-09T19:46:00Z"
+    }
+  ],
+  "testRuns": [
+    {
+      "id": "1",
+      "testCaseIds": [
+        1,
+        2,
+        3
+      ],
+      "status": "completed",
+      "result": "passed",
+      "startedAt": "2025-01-12T10:00:00Z",
+      "completedAt": "2025-01-12T10:05:00Z",
+      "duration": 300,
+      "deviceInfo": "iPhone 14 Pro",
+      "appVersion": "1.1",
+      "screenshots": 15,
+      "videoUrl": "/videos/test-run-1.mp4"
+    },
+    {
+      "id": "2",
+      "testCaseIds": [
+        4,
+        5
+      ],
+      "status": "running",
+      "result": null,
+      "startedAt": "2025-01-12T11:00:00Z",
+      "completedAt": null,
+      "duration": null,
+      "deviceInfo": "Samsung Galaxy S23",
+      "appVersion": "1.0",
+      "screenshots": 8,
+      "videoUrl": null
+    },
+    {
+      "id": "3",
+      "testCaseIds": [
+        6,
+        7,
+        8
+      ],
+      "status": "failed",
+      "result": "failed",
+      "startedAt": "2025-01-12T09:00:00Z",
+      "completedAt": "2025-01-12T09:03:00Z",
+      "duration": 180,
+      "deviceInfo": "iPhone 13",
+      "appVersion": "1.0",
+      "screenshots": 5,
+      "videoUrl": "/videos/test-run-3.mp4"
+    }
+  ],
+  "analytics": {
+    "totalTests": 11,
+    "passedTests": 8,
+    "failedTests": 2,
+    "runningTests": 1,
+    "totalExecutions": 156,
+    "avgExecutionTime": 245,
+    "successRate": 87.5,
+    "trendsData": [
+      {
+        "date": "2025-01-01",
+        "passed": 5,
+        "failed": 1
+      },
+      {
+        "date": "2025-01-02",
+        "passed": 7,
+        "failed": 0
+      },
+      {
+        "date": "2025-01-03",
+        "passed": 6,
+        "failed": 2
+      },
+      {
+        "date": "2025-01-04",
+        "passed": 8,
+        "failed": 1
+      },
+      {
+        "date": "2025-01-05",
+        "passed": 9,
+        "failed": 0
+      }
+    ]
+  }
+}
